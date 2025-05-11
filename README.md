@@ -22,6 +22,8 @@ Employees are currently experiencing:
 •	Project implementation team structure
 •	Comprehensive cost-benefit analysis
 
- <a href="https://github.com/OrevaAurecia/Business-Analysis-Project/blob/main/AS-IS%20Process.docx"> AS-IS- Process</a>
- <a href="https://github.com/OrevaAurecia/Business-Analysis-Project/blob/main/To-Be%20Process.docx"> TO-BE -Process</a>
-- BRD <a href="https://github.com/OrevaAurecia/Business-Analysis-Project/blob/main/Business%20Requirement%20Document.docx"> Business Requireent Document</a>
+ <a href="https://github.com/OrevaAurecia/Business-Analysis-Project/blob/main/AS-IS%20Process.docx"> AS-IS-Process</a>
+ 
+ <a href="https://github.com/OrevaAurecia/Business-Analysis-Project/blob/main/To-Be%20Process.docx"> TO-BE-Process</a>
+ 
+- BRD <a href="https://github.com/OrevaAurecia/Business-Analysis-Project/blob/main/Business%20Requirement%20Document.docx">BusinessRequirement Document</a>
