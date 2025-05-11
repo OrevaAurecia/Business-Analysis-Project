@@ -5,14 +5,20 @@ To design and implement an efficient, technology-driven solution to address the 
 ## Identified Problem
 Employees are currently experiencing:
 •	Excessive time spent queuing at the canteen
+
 •	Resulting dissatisfaction and reduced workplace productivity
+
 •	High levels of food wastage
+
 •	Increased operational costs for canteen services
 
 ## A successful solution will:
 •	Eliminate lunch-hour congestion
+
 •	Minimize or eliminate time spent queuing
+
 •	Eliminate food wastage, reducing canteen operational costs
+
 •	Offer employees access to a variety of meal options
 
 ## This project outlines:
@@ -22,8 +28,14 @@ Employees are currently experiencing:
 •	Project implementation team structure
 •	Comprehensive cost-benefit analysis
 
+## AS IS DOCUMENT
+
  <a href="https://github.com/OrevaAurecia/Business-Analysis-Project/blob/main/AS-IS%20Process.docx"> AS-IS-Process</a>
+
+## TO BE DOCUMENT
  
  <a href="https://github.com/OrevaAurecia/Business-Analysis-Project/blob/main/To-Be%20Process.docx"> TO-BE-Process</a>
+
+ ## BUSINESS REQUIREMENT DOCUMENT
  
-- BRD <a href="https://github.com/OrevaAurecia/Business-Analysis-Project/blob/main/Business%20Requirement%20Document.docx">BusinessRequirement Document</a>
+ <a href="https://github.com/OrevaAurecia/Business-Analysis-Project/blob/main/Business%20Requirement%20Document.docx">BusinessRequirement Document</a>
