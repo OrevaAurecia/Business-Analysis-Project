@@ -42,7 +42,7 @@ Employees are currently experiencing:
 
  ## BUSINESS REQUIREMENT DOCUMENT
  
- <a href="https://github.com/OrevaAurecia/Business-Analysis-Project/blob/main/Business%20Requirement%20Document.docx">BusinessRequirement Document</a>
+ <a href="https://github.com/OrevaAurecia/Business-Analysis-Project/blob/main/Business%20Requirement%20Document.docx">Business Requirement Document</a>
 
 ## EPIC AND BACKLOG
  <a href="https://github.com/OrevaAurecia/Business-Analysis-Project/blob/main/Epics%20and%20Backlog.docx">Epics and Backlog</a>
