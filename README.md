@@ -23,16 +23,20 @@ Employees are currently experiencing:
 
 ## This project outlines:
 •	Key stakeholders and their involvement levels
+
 •	Available solution options
+
 •	Risk assessment and mitigation strategies
+
 •	Project implementation team structure
+
 •	Comprehensive cost-benefit analysis
 
-## AS IS DOCUMENT
+## AS IS PROCESS
 
  <a href="https://github.com/OrevaAurecia/Business-Analysis-Project/blob/main/AS-IS%20Process.docx"> AS-IS-Process</a>
 
-## TO BE DOCUMENT
+## TO BE PROCESS
  
  <a href="https://github.com/OrevaAurecia/Business-Analysis-Project/blob/main/To-Be%20Process.docx"> TO-BE-Process</a>
 
