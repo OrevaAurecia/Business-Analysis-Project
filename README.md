@@ -22,3 +22,4 @@ Employees are currently experiencing:
 •	Project implementation team structure
 •	Comprehensive cost-benefit analysis
 
+-AS-IS <a href="https://github.com/OrevaAurecia/Business-Analysis-Project/blob/main/AS-IS%20Process.docx"> Document</a>
